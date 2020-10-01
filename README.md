@@ -1,2 +1,2 @@
 # MyFirstBlazorApp
-https://blazor-university.com
+Accompanying source code for blazor-university.com
